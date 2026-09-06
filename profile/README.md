@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="/"><img src="https://github.com/user-attachments/assets/30251f99-d8de-4821-a8b6-6f1dc1385dc3" alt="Vekrid" width="100%" /></a>
+  <a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/30251f99-d8de-4821-a8b6-6f1dc1385dc3" alt="Vekrid" width="100%" /></a>
 </div>
 
 ---
@@ -20,7 +20,7 @@
 
 ---
 
-<a href="/"><img src="https://github.com/user-attachments/assets/be610c6e-9c55-4888-866a-70699ee02c2f" width="100%" alt="Mods" /></a>
+<a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/be610c6e-9c55-4888-866a-70699ee02c2f" width="100%" alt="Mods" /></a>
 
 <table>
   <tr>
@@ -45,7 +45,7 @@
 
 ---
 
-<a href="/"><img src="https://github.com/user-attachments/assets/8cec0aef-7303-42fd-8fea-31792d9dd48c" width="100%" alt="Team" /></a>
+<a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/8cec0aef-7303-42fd-8fea-31792d9dd48c" width="100%" alt="Team" /></a>
 
 <table>
   <tr>
@@ -57,7 +57,7 @@
 
 ---
 
-<a href="/"><img src="https://github.com/user-attachments/assets/dfa0f4f4-4b0d-4cc3-8108-da585361ca29" width="100%" alt="Contributing" /></a>
+<a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/dfa0f4f4-4b0d-4cc3-8108-da585361ca29" width="100%" alt="Contributing" /></a>
 
 > Found a bug or have an idea? Open an issue on the relevant repo above — we read all of them, even if replies take a bit.
 
