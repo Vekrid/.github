@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/30251f99-d8de-4821-a8b6-6f1dc1385dc3" alt="Vekrid" width="100%" />
 </div>
 
-<br>
+---
 
 <p align="center">
   A small team of developers making mods for <b>Among Us</b>.
@@ -10,13 +10,15 @@
   <sub>We build tools that make the game smoother to play and easier to host, and contribute code back to the projects we rely on.</sub>
 </p>
 
+---
+
 <p align="center">
   <a href="https://vekrid.team">Website</a> ·
   <a href="https://youtube.com/@Vekrid">YouTube</a> ·
   <a href="https://github.com/orgs/Vekrid/repositories">Repositories</a>
 </p>
 
-<br>
+---
 
 <img src="https://github.com/user-attachments/assets/be610c6e-9c55-4888-866a-70699ee02c2f" width="100%" alt="Mods" />
 
@@ -41,7 +43,7 @@
   </tr>
 </table>
 
-<br>
+---
 
 <img src="https://github.com/user-attachments/assets/8cec0aef-7303-42fd-8fea-31792d9dd48c" width="100%" alt="Team" />
 
@@ -53,13 +55,13 @@
   </tr>
 </table>
 
-<br>
+---
 
 <img src="https://github.com/user-attachments/assets/dfa0f4f4-4b0d-4cc3-8108-da585361ca29" width="100%" alt="Contributing" />
 
 > Found a bug or have an idea? Open an issue on the relevant repo above — we read all of them, even if replies take a bit.
 
-<br>
+---
 
 <div align="center">
   <sub>VEKRID / 2026</sub>
