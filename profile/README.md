@@ -20,20 +20,14 @@
 
 <br><br>
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Vekrid/ScrollZoom">
-        <img src="https://github.com/user-attachments/assets/c9bb8962-d619-404b-9d9a-372a94403640" width="100%" alt="ScrollZoom Mod" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Vekrid/Ctrl2NoClip">
-        <img src="https://github.com/user-attachments/assets/9ad6cdaf-fc09-407a-b873-1688e0fd5254" width="100%" alt="Ctrl2NoClip Mod" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Vekrid/ScrollZoom">
+    <img src="https://github.com/user-attachments/assets/c9bb8962-d619-404b-9d9a-372a94403640" width="49.5%" alt="ScrollZoom Mod" />
+  </a>
+  <a href="https://github.com/Vekrid/Ctrl2NoClip">
+    <img src="https://github.com/user-attachments/assets/9ad6cdaf-fc09-407a-b873-1688e0fd5254" width="49.5%" alt="Ctrl2NoClip Mod" />
+  </a>
+</p>
 
 <br>
 
@@ -41,13 +35,11 @@
 
 <br><br>
 
-<table>
-  <tr>
-    <td width="33.33%"><img src="https://github.com/user-attachments/assets/cce89a40-2baa-4217-a91c-58e4eef023a5" width="100%" alt="Ferritey" /></td>
-    <td width="33.33%"><img src="https://github.com/user-attachments/assets/813a54d4-09e3-4eb5-9513-9be16b08d5cf" width="100%" alt="Derek4Ten" /></td>
-    <td width="33.33%"><img src="https://github.com/user-attachments/assets/6814dc2c-55c3-4790-93da-9a94168f187e" width="100%" alt="semanticplayer" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cce89a40-2baa-4217-a91c-58e4eef023a5" width="32.6%" alt="Ferritey" />
+  <img src="https://github.com/user-attachments/assets/813a54d4-09e3-4eb5-9513-9be16b08d5cf" width="32.6%" alt="Derek4Ten" />
+  <img src="https://github.com/user-attachments/assets/6814dc2c-55c3-4790-93da-9a94168f187e" width="32.6%" alt="semanticplayer" />
+</p>
 
 <br>
 
@@ -59,24 +51,17 @@
 
 <br>
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Vekrid">
-        <img src="https://github.com/user-attachments/assets/ef172839-bce1-46e7-96b5-6526d52f9694" width="100%" alt="GitHub" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://youtube.com/@Vekrid">
-        <img src="https://github.com/user-attachments/assets/7643d476-4b7e-4a8e-94c6-6a54c081b90c" width="100%" alt="YouTube" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Vekrid">
+    <img src="https://github.com/user-attachments/assets/ef172839-bce1-46e7-96b5-6526d52f9694" width="49.5%" alt="GitHub" />
+  </a>
+  <a href="https://youtube.com/@Vekrid">
+    <img src="https://github.com/user-attachments/assets/7643d476-4b7e-4a8e-94c6-6a54c081b90c" width="49.5%" alt="YouTube" />
+  </a>
+</p>
 
 <br>
 
 <div align="center">
   <sub>VEKRID / 2026</sub>
 </div>
-
