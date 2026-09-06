@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/15c6e2c4-a118-4402-951e-24c32f9cacd8" alt="Vekrid" width="100%" />
+  <a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/15c6e2c4-a118-4402-951e-24c32f9cacd8" alt="Vekrid" width="100%" /></a>
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/d8a528b8-332b-47bf-adc6-673d34122d75" width="100%" alt="Mods" />
+<a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/d8a528b8-332b-47bf-adc6-673d34122d75" width="100%" alt="Mods" /></a>
 
 <a href="https://github.com/Vekrid/BetterUI">
   <img src="https://github.com/user-attachments/assets/27732cb8-a109-49b0-a8bc-45626251b904" width="100%" alt="BetterUI Mod" />
@@ -27,12 +27,14 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/25e3fc12-3b7f-4103-9499-56f7f5cbbd78" width="100%" alt="Team" />
+<a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/25e3fc12-3b7f-4103-9499-56f7f5cbbd78" width="100%" alt="Team" /></a>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cce89a40-2baa-4217-a91c-58e4eef023a5" width="33%" alt="Ferritey" />
-  <img src="https://github.com/user-attachments/assets/813a54d4-09e3-4eb5-9513-9be16b08d5cf" width="33%" alt="Derek4Ten" />
-  <img src="https://github.com/user-attachments/assets/6814dc2c-55c3-4790-93da-9a94168f187e" width="33%" alt="semanticplayer" />
+  <a href="https://github.com/Vekrid">
+    <img src="https://github.com/user-attachments/assets/cce89a40-2baa-4217-a91c-58e4eef023a5" width="33%" alt="Ferritey" />
+    <img src="https://github.com/user-attachments/assets/813a54d4-09e3-4eb5-9513-9be16b08d5cf" width="33%" alt="Derek4Ten" />
+    <img src="https://github.com/user-attachments/assets/6814dc2c-55c3-4790-93da-9a94168f187e" width="33%" alt="semanticplayer" />
+  </a>
 </p>
 
 ---
