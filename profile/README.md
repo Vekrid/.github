@@ -1,54 +1,42 @@
 <div align="center">
-  <a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/15c6e2c4-a118-4402-951e-24c32f9cacd8" alt="Vekrid" width="100%" /></a>
+  <img src="https://github.com/user-attachments/assets/15c6e2c4-a118-4402-951e-24c32f9cacd8" alt="Vekrid" width="100%" />
 </div>
 
----
+<br>
 
-<p align="center">
-  A small team of developers making mods for <b>Among Us</b>.
-</p>
+<div align="center">
 
----
+A small team of developers making mods for **Among Us**.
 
-<a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/d8a528b8-332b-47bf-adc6-673d34122d75" width="100%" alt="Mods" /></a>
+[Website](https://vekrid.team) · [YouTube](https://youtube.com/@Vekrid)
 
-<a href="https://github.com/Vekrid/BetterUI">
-  <img src="https://github.com/user-attachments/assets/27732cb8-a109-49b0-a8bc-45626251b904" width="100%" alt="BetterUI Mod" />
-</a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Vekrid/ScrollZoom">
-    <img src="https://github.com/user-attachments/assets/c9bb8962-d619-404b-9d9a-372a94403640" width="49.6%" alt="ScrollZoom Mod" />
-  </a>
-  <a href="https://github.com/Vekrid/Ctrl2NoClip">
-    <img src="https://github.com/user-attachments/assets/9ad6cdaf-fc09-407a-b873-1688e0fd5254" width="49.6%" alt="Ctrl2NoClip Mod" />
-  </a>
-</p>
+<br>
 
----
+## What we do
 
-<a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/25e3fc12-3b7f-4103-9499-56f7f5cbbd78" width="100%" alt="Team" /></a>
+We build tools that make Among Us smoother to play and easier to host, and we contribute code back to the projects we rely on. Started by building things we wanted for our own lobbies, kept going once other people started using them too.
 
-<p align="center">
-  <a href="https://github.com/Vekrid">
-    <img src="https://github.com/user-attachments/assets/cce89a40-2baa-4217-a91c-58e4eef023a5" width="33%" alt="Ferritey" />
-    <img src="https://github.com/user-attachments/assets/813a54d4-09e3-4eb5-9513-9be16b08d5cf" width="33%" alt="Derek4Ten" />
-    <img src="https://github.com/user-attachments/assets/6814dc2c-55c3-4790-93da-9a94168f187e" width="33%" alt="semanticplayer" />
-  </a>
-</p>
+## Mods
 
----
+| Mods | Summary |
+|---|---|
+| **[BetterUI](https://github.com/Vekrid/BetterUI)** | A cleaner in-game interface — reworked menus, clearer readouts, and small quality-of-life fixes we kept wishing the base game had. |
+| **[ScrollZoom](https://github.com/Vekrid/ScrollZoom)** | Smooth mouse-wheel zoom — pull back for a full map view or zoom in, without touching a menu. |
+| **[Ctrl2NoClip](https://github.com/Vekrid/Ctrl2NoClip)** | A debug-style noclip toggle bound to Ctrl, built for testing maps and mods faster without fighting collision. |
 
-<p align="center">
-  <a href="https://github.com/Vekrid">
-    <img src="https://github.com/user-attachments/assets/ef172839-bce1-46e7-96b5-6526d52f9694" width="49.6%" alt="GitHub" />
-  </a>
-  <a href="https://youtube.com/@Vekrid">
-    <img src="https://github.com/user-attachments/assets/7643d476-4b7e-4a8e-94c6-6a54c081b90c" width="49.6%" alt="YouTube" />
-  </a>
-</p>
+## Team
 
----
+- **Ferritey** — Modding / Engineering
+- **Derek4Ten** — Modding / Engineering
+- **semanticplayer** — Modding / Community
+
+## Contributing
+
+Found a bug or have an idea? Open an issue on the relevant repo above — we read all of them, even if replies take a bit.
+
+<br>
 
 <div align="center">
   <sub>VEKRID / 2026</sub>
