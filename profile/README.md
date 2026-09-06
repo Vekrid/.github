@@ -1,68 +1,82 @@
 <div align="center">
-  <a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/30251f99-d8de-4821-a8b6-6f1dc1385dc3" alt="Vekrid" width="100%" /></a>
+  <img src="https://github.com/user-attachments/assets/15c6e2c4-a118-4402-951e-24c32f9cacd8" alt="Vekrid" width="100%" />
 </div>
 
----
+<br>
 
 <p align="center">
   A small team of developers making mods for <b>Among Us</b>.
-  <br>
-  <sub>We build tools that make the game smoother to play and easier to host, and contribute code back to the projects we rely on.</sub>
 </p>
 
----
+<br>
 
-<p align="center">
-  <a href="https://vekrid.team">Website</a> ·
-  <a href="https://youtube.com/@Vekrid">YouTube</a> ·
-  <a href="https://github.com/orgs/Vekrid/repositories">Repositories</a>
-</p>
+<img src="https://github.com/user-attachments/assets/d8a528b8-332b-47bf-adc6-673d34122d75" width="100%" alt="Mods" />
 
----
+<br><br>
 
-<a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/be610c6e-9c55-4888-866a-70699ee02c2f" width="100%" alt="Mods" /></a>
+<a href="https://github.com/Vekrid/BetterUI">
+  <img src="https://github.com/user-attachments/assets/27732cb8-a109-49b0-a8bc-45626251b904" width="100%" alt="BetterUI Mod" />
+</a>
+
+<br><br>
 
 <table>
   <tr>
-    <td width="100%">
-      <b><a href="https://github.com/Vekrid/BetterUI">BetterUI</a></b><br>
-      <sub>A cleaner in-game interface — reworked menus, clearer readouts, and small quality-of-life fixes we kept wishing the base game had.</sub>
+    <td width="50%">
+      <a href="https://github.com/Vekrid/ScrollZoom">
+        <img src="https://github.com/user-attachments/assets/c9bb8962-d619-404b-9d9a-372a94403640" width="100%" alt="ScrollZoom Mod" />
+      </a>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/Vekrid/ScrollZoom">ScrollZoom</a></b><br>
-      <sub>Smooth mouse-wheel zoom — pull back for a full map view or zoom in, without touching a menu.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/Vekrid/Ctrl2NoClip">Ctrl2NoClip</a></b><br>
-      <sub>A debug-style noclip toggle bound to Ctrl, built for testing maps and mods faster without fighting collision.</sub>
+    <td width="50%">
+      <a href="https://github.com/Vekrid/Ctrl2NoClip">
+        <img src="https://github.com/user-attachments/assets/9ad6cdaf-fc09-407a-b873-1688e0fd5254" width="100%" alt="Ctrl2NoClip Mod" />
+      </a>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-<a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/8cec0aef-7303-42fd-8fea-31792d9dd48c" width="100%" alt="Team" /></a>
+<img src="https://github.com/user-attachments/assets/25e3fc12-3b7f-4103-9499-56f7f5cbbd78" width="100%" alt="Team" />
+
+<br><br>
 
 <table>
   <tr>
-    <td><b>Ferritey</b><br><sub>Modding / Engineering</sub></td>
-    <td><b>Derek4Ten</b><br><sub>Modding / Engineering</sub></td>
-    <td><b>semanticplayer</b><br><sub>Modding / Community</sub></td>
+    <td width="33.33%"><img src="https://github.com/user-attachments/assets/cce89a40-2baa-4217-a91c-58e4eef023a5" width="100%" alt="Ferritey" /></td>
+    <td width="33.33%"><img src="https://github.com/user-attachments/assets/813a54d4-09e3-4eb5-9513-9be16b08d5cf" width="100%" alt="Derek4Ten" /></td>
+    <td width="33.33%"><img src="https://github.com/user-attachments/assets/6814dc2c-55c3-4790-93da-9a94168f187e" width="100%" alt="semanticplayer" /></td>
   </tr>
 </table>
 
----
+<br>
 
-<a href="https://github.com/Vekrid"><img src="https://github.com/user-attachments/assets/dfa0f4f4-4b0d-4cc3-8108-da585361ca29" width="100%" alt="Contributing" /></a>
+<img src="https://github.com/user-attachments/assets/11251520-c275-4ef0-a0a2-757bc3f213a8" width="100%" alt="Contributing" />
 
-> Found a bug or have an idea? Open an issue on the relevant repo above — we read all of them, even if replies take a bit.
+<br><br>
 
----
+<p>Found a bug or have an idea? Open an issue on the relevant repo above, we read all of them.</p>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Vekrid">
+        <img src="https://github.com/user-attachments/assets/ef172839-bce1-46e7-96b5-6526d52f9694" width="100%" alt="GitHub" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://youtube.com/@Vekrid">
+        <img src="https://github.com/user-attachments/assets/7643d476-4b7e-4a8e-94c6-6a54c081b90c" width="100%" alt="YouTube" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
   <sub>VEKRID / 2026</sub>
 </div>
+
