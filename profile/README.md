@@ -1,49 +1,43 @@
-![Vekrid](https://github.com/user-attachments/assets/3df21158-614c-4879-be01-b28c476a9cb2)
----
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/dc721511-9ad6-40bc-8691-94858b0ce979" alt="Vekrid" width="100%" />
+</div>
 
-# The Vekrid Team
+<br>
 
-The Vekrid Team develops utility mods for Among Us, focused on improving gameplay experience through practical, functional enhancements rather than cosmetic or chaos-oriented changes.
+<div align="center">
 
-## Objective
+A small team of developers making mods for **Among Us**.
 
-Our development philosophy centers on quality-of-life improvements that integrate cleanly into existing gameplay. Areas of focus include:
+[Website](https://vekrid.team) · [YouTube](https://youtube.com/@Vekrid)
 
-- Interface and UX improvements
-- Task and meeting management tools
-- Host and lobby administration utilities
-- Performance and stability optimizations
+</div>
 
-Each mod is designed to solve a specific gameplay friction point without altering the core identity of Among Us.
+<br>
 
-## Current Status
+## What we do
 
-The team is in the planning and prototyping phase. No public releases have been made yet. This profile will be updated as development progresses.
+We build tools that make Among Us smoother to play and easier to host, and we contribute code back to the projects we rely on. Started by building things we wanted for our own lobbies, kept going once other people started using them too.
 
-## Planned Projects
+## Mods
 
-| Mod | Description | Status |
-|-----|-------------|--------|
-| **Bless My Eyes** | Makes the UI a little bit better. | Planning |
-| **Heal My Eyes** | Adds Dark Mode theme to the game. | Planning |
-| **Tourney Manager** | Adds various tools for people reviewing gameplays. | Planning |
+| Mods | Summary |
+|---|---|
+| **[BetterUI](https://github.com/Vekrid/BetterUI)** | A cleaner in-game interface — reworked menus, clearer readouts, and small quality-of-life fixes we kept wishing the base game had. |
+| **[ScrollZoom](https://github.com/Vekrid/ScrollZoom)** | Smooth mouse-wheel zoom — pull back for a full map view or zoom in, without touching a menu. |
+| **[Ctrl2NoClip](https://github.com/Vekrid/Ctrl2NoClip)** | A debug-style noclip toggle bound to Ctrl, built for testing maps and mods faster without fighting collision. |
 
+## Team
 
-This table will be expanded and updated as projects move into active development.
+- **Ferritey** — Modding / Engineering
+- **Derek4Ten** — Modding / Engineering
+- **semanticplayer** — Modding / Community
 
-## Technical Stack
+## Contributing
 
-Built on the standard Among Us modding framework (BepInEx / Reactor — to be finalized as the stack is confirmed).
+Found a bug or have an idea? Open an issue on the relevant repo above — we read all of them, even if replies take a bit.
 
-## Contribution
+<br>
 
-Contributors and feedback will be welcomed once initial projects reach a stable development stage. Details on contribution guidelines will be added at that time.
-
-## Contact
-
-- Discord: to be added
-- GitHub Issues: to be used for suggestions and tracking once repositories are public
-
----
-
-The Vekrid Team
+<div align="center">
+  <sub>VEKRID / 2026</sub>
+</div>
